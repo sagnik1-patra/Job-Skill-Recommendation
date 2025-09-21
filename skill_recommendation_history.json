@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-09-21 22:12:34",
+    "user_current_skills": [
+      "communication",
+      "recruitment",
+      "employee relations"
+    ],
+    "target_job_title": "HR Manager",
+    "target_industry": "Human Resources",
+    "recommended_skills": [
+      "'communication'",
+      "'problem solving'"
+    ]
+  }
+]
