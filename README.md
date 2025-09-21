@@ -1,5 +1,5 @@
 SkillLink recommends the most relevant skills for a user based on their current skills, desired job title, and industry. It uses TF-IDF text embeddings and a multi-label Keras model trained on job descriptions + skill sets. The project includes preprocessing, model training, prediction, visualization (accuracy & loss graphs, skill-wise heatmap), and a logging system that appends every prediction to persistent CSV and JSON history files.
-
+![Confusion Matrix Heatmap](Confussion Matrix.png)
 This README documents how to set up, run, and extend the repository you already created at:
 
 C:\Users\NXTWAVE\Downloads\Job Skill Recommendation
@@ -222,6 +222,6 @@ When running predict_and_append.py with HR example:
     "hr analytics"
   ]
 }
-![Confusion Matrix Heatmap](Confussion Matrix.png)
+
 
 This record will be appended to both CSV and JSON history files.
